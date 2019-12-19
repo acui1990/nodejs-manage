@@ -20,7 +20,6 @@
 Moment
 JavaScript 日期处理类库
 [学习网址](http://momentjs.cn/)
-[繁体中文版](http://markdown.tw/)
 ```
 #### 日志log
 ```
